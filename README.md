@@ -1,4 +1,4 @@
-# 🚀 Computer Vision & Deep Learning Portfolio (`AI-VISION-INTERNSHIP`)
+# 🚀 Computer Vision & Deep Learning Portfolio (`ai-vision-internship`)
 
 This repository contains the projects, experiments, implementation notes, source code, and weekly technical reports I developed while studying Computer Vision, Object Detection, Multi-Object Tracking, and Deep Learning. 
 
@@ -90,6 +90,7 @@ AI-VISION-INTERNSHIP/
 ├── .gitignore
 ├── README.md
 └── yolov8m.pt
+```
 
 ## 📖 Weekly Reports
 
