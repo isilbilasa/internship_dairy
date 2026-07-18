@@ -1,0 +1,13 @@
+# Veri setleri ve test videoları
+market_dataset-2/
+*.mp4
+*.avi
+
+# YOLO otomatik çıktıları ve model ağırlıkları
+runs/
+*.pt
+
+# Python ve VS Code geçici dosyaları
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
